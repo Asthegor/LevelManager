@@ -1,5 +1,6 @@
 # LevelManager
 LevelManager is a parser for Tiled Lua exported file.
+You need Love2D installed to use it.
 
 With it, you can :
 - load as many maps as you need (just create a new instance of LevelManager)
