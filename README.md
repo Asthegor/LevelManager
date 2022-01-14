@@ -9,3 +9,13 @@ With it, you can :
 
 A backup is made for most of the changes you can make (object position, image id, opacity,  etc.)
 
+
+# Documentation
+
+You can find a documentation here https://dina.lacombedominique.com/documentation/levels/levelmanager/
+
+
+# Tutorials
+
+Some tutorials are avalaible here : https://dina.lacombedominique.com/tutorials#LevelManager(Tiled)
+
